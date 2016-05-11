@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public
+/storage
+composer.json
+composer.lock
+artisan
+Homestead.yaml
+Homestead.json
+.env.example
