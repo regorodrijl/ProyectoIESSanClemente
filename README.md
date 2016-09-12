@@ -6,7 +6,6 @@ Participantes:
 
 	Jose Luis Rego Rodríguez
 
-	Óscar Fuentes Maña
 
 Tutor:
 
