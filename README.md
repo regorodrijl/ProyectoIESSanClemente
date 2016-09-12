@@ -14,3 +14,11 @@ Tutor:
 URL FrontEnd:
 
 	http://regorodri.noip.me/proyecto/
+
+
+Lenguajes y Tecnologías Usados:
+	
+	Php
+	JavaScript
+	Jquery
+	Ajax
