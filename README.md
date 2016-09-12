@@ -34,3 +34,5 @@ Datos del proyecto:
 	Nos conectamos a un servidor ldap para obtener todos los profesores y 
 	almacenarlos en una BD mysql.
 	Luego gestionamos la creación de claustros y la visualización de los mismos.
+	
+	También se usan 2 webServices para la gestión de las peticiónes Ajax y las peticiónes desde Android.
